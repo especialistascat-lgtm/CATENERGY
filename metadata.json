@@ -1,0 +1,6 @@
+{
+  "name": "CATENERGY SAC - Gestión de Energía y Subestaciones",
+  "description": "Página web corporativa de CATENERGY SAC especializada en gestión de energía, gestión de mantenimiento y mantenimiento de subestaciones eléctricas AT/MT/BT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
